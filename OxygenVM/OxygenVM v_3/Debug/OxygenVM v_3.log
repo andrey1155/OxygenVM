@@ -1,0 +1,3 @@
+﻿  OxygenVM v_3.cpp
+D:\Code\Oxygen project v3\OxygenVM\OxygenVM v_3\OxygenVM v_3.cpp(162,18): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  OxygenVM v_3.vcxproj -> D:\Code\Oxygen project v3\OxygenVM\Debug\OxygenVM v_3.exe
